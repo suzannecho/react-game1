@@ -1,0 +1,18 @@
+.nounderline {
+    text-decoration: none !important
+  }
+  
+  .navbar-custom {
+    background-color: darkorchid;
+}
+  #header-name {
+      font-weight: bold;
+  }
+
+  h3 {
+      color: white
+  }
+
+  #jumbo1 {
+      border: black 5px bold;
+  }

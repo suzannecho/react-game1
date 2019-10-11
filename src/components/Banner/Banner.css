@@ -1,0 +1,16 @@
+.jumbotron {
+	/*  Background fallback in case of IE8 & down, or in case the image doesn't load, such as with slower connections  */
+	
+	background-image: url('harrypotter-theme.jpg');
+
+	font-family: 'Arial';
+	height: 250px;
+	width: auto;
+	opacity: 1;
+	text-align: center;
+}
+
+h1, h4, h2 {
+	color: #ffffff;
+	font-weight: bold;
+}
