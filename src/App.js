@@ -66,7 +66,7 @@ class App extends Component {
           clickedImages: clickedImagesCopy,
           score: newScore,
           topScore: newTopScore,
-          feedback: "Way to go! You guessed correctly!",
+          feedback: "You guessed correctly!",
           gameStatus: 0
           }, () => {
           // console.log("IF block state AFTER CORRECT GUESS: " + JSON.stringify(this.state));
